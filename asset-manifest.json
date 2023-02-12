@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00ac72b1.css",
+    "main.js": "/static/js/main.42ffd80e.js",
+    "static/media/geography.svg": "/static/media/geography.8af1e049ffa25ababc5f7d229a56cc48.svg",
+    "static/media/tomato-icon.svg": "/static/media/tomato-icon.080947e5fa30c479d8c77a30d2de3424.svg",
+    "static/media/biology.svg": "/static/media/biology.94245345a176093b65f6ff9bdf64bf05.svg",
+    "static/media/hand-rock.svg": "/static/media/hand-rock.715df1bb63ce118570c16f5e1c46e86f.svg",
+    "static/media/hand-scissors.svg": "/static/media/hand-scissors.adeb6c6bdc87835d6bf86826834fd033.svg",
+    "static/media/math.svg": "/static/media/math.28cea9683ab5f8438949462050351da8.svg",
+    "static/media/hand-paper.svg": "/static/media/hand-paper.29359957b80feab3d47c861ca25e02ef.svg",
+    "static/media/javascript.svg": "/static/media/javascript.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "index.html": "/index.html",
+    "main.00ac72b1.css.map": "/static/css/main.00ac72b1.css.map",
+    "main.42ffd80e.js.map": "/static/js/main.42ffd80e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ac72b1.css",
+    "static/js/main.42ffd80e.js"
+  ]
+}
